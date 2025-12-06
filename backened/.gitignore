@@ -1,4 +1,4 @@
-config.py
+app/config.py
 # Python
 __pycache__/
 *.pyc
